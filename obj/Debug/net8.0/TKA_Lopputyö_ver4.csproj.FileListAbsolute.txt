@@ -1,0 +1,14 @@
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\bin\Debug\net8.0\TKA_Lopputyö_ver4.exe
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\bin\Debug\net8.0\TKA_Lopputyö_ver4.deps.json
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\bin\Debug\net8.0\TKA_Lopputyö_ver4.runtimeconfig.json
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\bin\Debug\net8.0\TKA_Lopputyö_ver4.dll
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\bin\Debug\net8.0\TKA_Lopputyö_ver4.pdb
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.AssemblyInfoInputs.cache
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.AssemblyInfo.cs
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.csproj.CoreCompileInputs.cache
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.dll
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\refint\TKA_Lopputyö_ver4.dll
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.pdb
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\TKA_Lopputyö_ver4.genruntimeconfig.cache
+C:\Users\Tonoppa\Desktop\Ohjelmistokehittäjä koulun tiedostoja\Johdatus ohjelmointiin ja tietorakenteisiin\Tehtäviä\TKA_Lopputyö_ver4\obj\Debug\net8.0\ref\TKA_Lopputyö_ver4.dll
