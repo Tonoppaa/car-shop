@@ -1,0 +1,1 @@
+Tämä ohjelma on kuvitteellinen autokauppa, jossa voi ostaa uusia tai käytettyjä autoja. Ohjelma on tehty C#-ohjelmointikielellä konsolisovelluksena ja se on yksi ohjelmistokehittäjäkurssin aineen lopputöistä. Tämä on viimeisin versio eli valmis versio.
